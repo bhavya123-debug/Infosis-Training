@@ -1,2 +1,2 @@
-# Infosis-Training
+
 Infosis Training
